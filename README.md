@@ -16,13 +16,13 @@ The project also considered potential risks for northern territories and industr
 
 The project covered the full research cycle:
 
-- fieldwork at an Arctic weather station;
-- collection of long-term climate and soil temperature data;
-- cleaning and alignment of time-series data;
-- statistical analysis of temperature relationships;
-- trend visualization;
-- forecasting of critical soil temperature thresholds;
-- presentation of results to academic and public-sector audiences.
+- fieldwork at an Arctic weather station
+- collection of long-term climate and soil temperature data
+- cleaning and alignment of time-series data
+- statistical analysis of temperature relationships
+- trend visualization
+- forecasting of critical soil temperature thresholds
+- presentation of results to academic and public-sector audiences
 
 ## Materials
 
@@ -31,4 +31,4 @@ The project covered the full research cycle:
 
 ## Status
 
-Completed research project.
+Completed research project
