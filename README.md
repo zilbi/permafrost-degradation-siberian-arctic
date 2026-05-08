@@ -32,6 +32,14 @@ The Rise finalist status opened access to additional international opportunities
 I was selected for the fully funded Global Scholars Program, an international leadership program held at the African Leadership Academy campus in South Africa. 
 During this program, I received the Curiosity Award, one of six annual participant awards.
 
+<p align="center">
+  <img src="materials/curiosity-award-ceremony.jpg" width="650">
+</p>
+
+<p align="center">
+  <em>Curiosity Award ceremony, Global Scholars Program, African Leadership Academy, South Africa.</em>
+</p>
+
 In parallel with the in-person program in South Africa, I was also selected for a climate change simulation program offered to a small group of Rise finalists. I include this certificate because it directly connects to the research direction of this repository: climate systems, environmental risk, and data-based analysis of long-term ecological change.
 
 ## Materials
