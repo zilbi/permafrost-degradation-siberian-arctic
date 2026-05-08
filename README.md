@@ -24,6 +24,16 @@ The project covered the full research cycle:
 - forecasting of critical soil temperature thresholds
 - presentation of results to academic and public-sector audiences
 
+## Recognition and Related Programs
+
+This project was presented within the Rise Global Talent Program and was recognized with a Finalist Diploma.
+
+The Rise finalist status opened access to additional international opportunities, but participation in these programs was not automatic and required separate competitive selection. 
+I was selected for the fully funded Global Scholars Program, an international leadership program held at the African Leadership Academy campus in South Africa. 
+During this program, I received the Curiosity Award, one of six annual participant awards.
+
+In parallel with the in-person program in South Africa, I was also selected for a climate change simulation program offered to a small group of Rise finalists. I include this certificate because it directly connects to the research direction of this repository: climate systems, environmental risk, and data-based analysis of long-term ecological change.
+
 ## Materials
 
 - [Project video](materials/project-video.md)
